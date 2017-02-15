@@ -9,7 +9,7 @@ RSpec.describe "The FlightSchool application" do
   include Rack::Test::Methods
 
   def app
-    FlightSchool
+    FlightSchoo
   end
 
   before do
